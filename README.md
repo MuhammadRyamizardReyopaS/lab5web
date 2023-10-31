@@ -1,3 +1,6 @@
 # lab5web
 
-# Sedang Mengerjakan
+# Tugas
+## Buatlah Script Untuk Melakukan Validasi Pada Isian Form
+
+![fototugas](fototugas.PNG)
