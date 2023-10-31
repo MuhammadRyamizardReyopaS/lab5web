@@ -9,4 +9,4 @@
 
 ## Console Log dan Document Write
 
-![foto1](foto1.png)
+![foto1](foto1.PNG)
